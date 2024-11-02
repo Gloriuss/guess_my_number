@@ -63,11 +63,16 @@ python game.py
 The Excel file path for storing game results is defined relatively in the code. Ensure that records.xlsx is located in the same directory as game.py.
 
 ## File Structure
-guess-my-number-game/
+guess-my-number/
+
 ├── .venv/                  # Virtual environment (not included in the repo)
+
 ├── game.py                 # Main game script
+
 ├── requirements.txt        # Project dependencies
+
 ├── README.md               # Project documentation
+
 └── records.xlsx            # Excel file for game statistics
 
 ## License
