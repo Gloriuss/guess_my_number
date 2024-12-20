@@ -4,9 +4,6 @@
 
 This project is a Python-based number-guessing game. It includes two main game modes, difficulty levels, and a system for storing game results in an Excel file. It was developed as part of a programming module practice, demonstrating key programming concepts in Python.
 
-## Competiton link
-
-https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-watertable/
 
 ## Features
 
